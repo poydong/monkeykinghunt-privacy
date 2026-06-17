@@ -1,5 +1,5 @@
 {
   "minSupportVersion": "1.0.1",
-  "updateDownloadUrl": "这里填你的Google Play/App Store/APK下载链接",
-  "updateTipText": "当前客户端版本过低，请下载最新版本后游玩"
+  "updateDownloadUrl": "https://play.google.com/store/apps/details?id=你的包名",
+  "updateTipText": "Client version too low, please download the latest version"
 }
